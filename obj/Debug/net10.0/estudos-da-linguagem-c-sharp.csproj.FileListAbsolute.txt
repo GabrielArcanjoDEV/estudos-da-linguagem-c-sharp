@@ -1,0 +1,15 @@
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\bin\Debug\net10.0\estudos-da-linguagem-c-sharp.exe
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\bin\Debug\net10.0\estudos-da-linguagem-c-sharp.deps.json
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\bin\Debug\net10.0\estudos-da-linguagem-c-sharp.runtimeconfig.json
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\bin\Debug\net10.0\estudos-da-linguagem-c-sharp.dll
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\bin\Debug\net10.0\estudos-da-linguagem-c-sharp.pdb
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\obj\Debug\net10.0\estudos-da-linguagem-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\obj\Debug\net10.0\estudos-da-linguagem-c-sharp.AssemblyInfoInputs.cache
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\obj\Debug\net10.0\estudos-da-linguagem-c-sharp.AssemblyInfo.cs
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\obj\Debug\net10.0\estudos-da-linguagem-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\obj\Debug\net10.0\estudos-da-linguagem-c-sharp.sourcelink.json
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\obj\Debug\net10.0\estudos-da-linguagem-c-sharp.dll
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\obj\Debug\net10.0\refint\estudos-da-linguagem-c-sharp.dll
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\obj\Debug\net10.0\estudos-da-linguagem-c-sharp.pdb
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\obj\Debug\net10.0\estudos-da-linguagem-c-sharp.genruntimeconfig.cache
+C:\Users\Gabriel Arcanjo\Desktop\curso c#\estudos-da-linguagem-c-sharp\obj\Debug\net10.0\ref\estudos-da-linguagem-c-sharp.dll

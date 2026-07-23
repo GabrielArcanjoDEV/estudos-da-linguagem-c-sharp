@@ -1,6 +1,6 @@
 namespace aula02;
 
-public class program
+public class Program
 {
     public static void Main()
     {
